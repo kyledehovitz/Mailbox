@@ -8,6 +8,6 @@ All required tasks completed
 
 - [x] Semi-optional: Pressing "Help me get to Zero" will reset the message and scrollView. Oh the irony.
 
-![Video Walkthrough](mailbox5.gif)
+![Video Walkthrough](mailbox2.gif)
 
 Copyright © Kyle DeHovitz, 2015
